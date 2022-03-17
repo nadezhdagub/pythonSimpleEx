@@ -2,7 +2,9 @@
 
 ## There will be 8 topics in turn.
 
+
+
 # Day 1
 
-## Copy the example for calculating Fibonacci numbers.
-## Create a file that implements a list of topics
+### Copy the example for calculating Fibonacci numbers.
+### Create a file that implements a list of topics
