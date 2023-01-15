@@ -34,3 +34,30 @@
 
 ### Classes and OOP
 ### Exceptions
+
+# Day 5
+
+### 
+### 
+### 
+
+<br>
+<br>
+
+# Day 6
+
+### 
+### 
+### 
+
+<br>
+<br>
+
+# Day 7
+
+### 
+### 
+### 
+
+<br>
+<br>
